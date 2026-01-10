@@ -1,6 +1,7 @@
 import medilinkImg from "../assets/images/medilink.png";
 import eduvaultImg from "../assets/images/eduvault.png";
 import sickelcellImg from "../assets/images/sickelcell.png";
+import bankingImg from "../assets/images/banking.png";
 
 export type Project = {
   id: string;
@@ -48,6 +49,15 @@ export const projects: Project[] = [
     image: eduvaultImg,
     live: "https://edu-front-two.vercel.app",
     repo: "https://github.com/Kennedy87670/EduVault",
+  },
+  {
+    id: "banking-learn",
+    title: "BankingLearn - React Native Banking App",
+    description:
+      "Production-quality React Native banking application demonstrating senior-level patterns and best practices. Features complete authentication flow with OTP, biometric security, card management, money transfers, and transaction statements. Built with TypeScript, React Navigation, and Formik validation.",
+    tech: ["React Native", "TypeScript", "React Navigation", "Formik", "Yup", "Context API"],
+    image: bankingImg,
+    repo: "https://github.com/Kennedy87670/banking-Learn-react-native",
   },
 
   // {
