@@ -17,16 +17,9 @@ const Hero: React.FC = () => {
           </h1>
 
           <p className={styles.description}>
-            Frontend & Mobile Engineer with 4+ years of professional experience
-            (internship + full-time) building scalable, secure, and
-            high-performance applications across web and mobile platforms.
-            Highly skilled in React.js, Next.js, TypeScript, and modern frontend
-            architectures, with growing expertise in mobile development using
-            React Native. Experienced in collaborating within microservices
-            ecosystems, optimizing enterprise banking systems serving 50,000+
-            daily users, and delivering SEO-optimized, accessible, and
-            user-centric solutions. Passionate about crafting performant digital
-            experiences that scale seamlessly across devices and platforms.
+            Crafting scalable, high-performance web and mobile applications with
+            React.js, React Native, Next.js, and TypeScript. 4+ years of
+            experience building enterprise systems for 50,000+ users.
           </p>
 
           <div className={styles.ctas}>

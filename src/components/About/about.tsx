@@ -22,7 +22,7 @@ const About: React.FC = () => {
           <div className={styles.textContent}>
             <p>
               I turn complex problems into elegant, performant solutions. With
-              2+ years building production applications, I've optimized systems
+              4+ years building production applications, I've optimized systems
               serving 50,000+ daily users and reduced load times by 40% through
               strategic performance engineering.
             </p>
